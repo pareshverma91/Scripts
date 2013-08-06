@@ -1,7 +1,7 @@
 #! /usr/bin/env perl
 
 #For cron
-#   5 * * * * perl /ug/ug2k9/cse/paresh.verma/public_html/stuff/hacker_news_logger.pl
+#   5 * * * * perl ./hacker_news_logger.pl
 
 use warnings;
 use strict;
